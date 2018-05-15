@@ -1,5 +1,5 @@
 {
-  "name": "proxy-oliver",
+  "name": "proxy-raymond",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/apateez/proxy-Oliver.git"
+    "url": "git+https://github.com/Apateez10k/proxy-Raymond.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/apateez/proxy-Oliver/issues"
+    "url": "https://github.com/Apateez10k/proxy-Raymond/issues"
   },
-  "homepage": "https://github.com/apateez/proxy-Oliver#readme",
+  "homepage": "https://github.com/Apateez10k/proxy-Raymond#readme",
   "dependencies": {
     "@fortawesome/fontawesome": "^1.1.5",
     "@fortawesome/fontawesome-free-solid": "^5.0.10",
