@@ -1,4 +1,4 @@
-// require('newrelic');
+require('newrelic');
 const express = require('express');
 const morgan = require('morgan');
 const serverCore = require('./serverCore.js');
