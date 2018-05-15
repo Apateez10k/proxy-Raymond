@@ -24,7 +24,6 @@ const bundleLoader = (clientPath, serverPath, cssPath) => {
       .then(res => res.text())
       .then(text => writeFile(serverFile, text))
       .then(() => {
-        console.log('server file path: ', serverFile);
         service.Component = require(serverFile).default;
         return service;
       });

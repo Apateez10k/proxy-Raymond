@@ -4,6 +4,7 @@ const React = require('react');
 const ReactDOM = require('react-dom/server');
 const template = require('./template/index.js');
 const bundleLoader = require('./loader.js');
+
 const clientBundlePath = './dist/bundles/';
 const serverBundlePath = './services/';
 const cssBundlePath = './dist/bundles/';
