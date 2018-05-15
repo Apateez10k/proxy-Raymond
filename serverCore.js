@@ -20,7 +20,6 @@ const fetchBundles = () => (
           const elem = React.createElement(service.Component);
           service.html = ReactDOM.renderToString(elem);
         });
-        console.log('SERVICES: ', services);
         res.send(template(services));
       });
     })
