@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Gallery",
+    "clientUrl": "http://localhost:3002/restaurants/client.js",
+    "serverUrl": "http://localhost:3002/restaurants/server.js",
+    "cssUrl": "http://localhost:3002/restaurants/style.css"
+  }
+]

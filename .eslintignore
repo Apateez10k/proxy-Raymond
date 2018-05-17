@@ -1,0 +1,6 @@
+__mocks__/
+dist/
+node_modules/
+services/
+public/
+.git/
